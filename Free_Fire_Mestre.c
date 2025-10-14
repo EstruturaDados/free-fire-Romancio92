@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 //definição de constante.
-#define TAM 10
+#define TAM 20
 
 //definição da struct item.
 typedef struct
